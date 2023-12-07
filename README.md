@@ -16,6 +16,8 @@ $pkg install datetime
 
 $pip install pycryptodome
 
+$pip install marshall
+
 $pip install Crypto
 
 $git clone https://github.com/NaldiFanxmoody/NallZ-CrAck5
